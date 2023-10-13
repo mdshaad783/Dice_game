@@ -1,0 +1,38 @@
+*{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: rgb(46, 203, 255);
+        }
+        .container{
+            width: 70%;
+            margin: auto;
+            text-align: center;
+            font-family: 'Acme', sans-serif;
+        }
+        .play{
+            display: inline-block;
+
+        }
+        h1{
+            font-size: 70px;
+            text-shadow: 5px 0 white;
+            color: rgb(253, 63, 63);
+        }
+        h3{
+            font-size: 50px;
+            text-shadow: 5px 0 white;
+            color: rgb(139, 31, 255);
+        }
+        img{
+            width: 70%;
+        }
+        button{
+            padding: 7px 30px;
+            margin-left: 47%;
+            margin-top: 1rem;
+            background-color: rgb(253, 63, 63);
+            color: white;
+            font-size: 20px;
+            border: none;
+        }
